@@ -1,4 +1,4 @@
-# Scripts used to analyse temporal sampled from the endangered Seychelles paradise flycatcher
+# Scripts used to analyse temporal samples from the endangered Seychelles paradise flycatcher
 
 ----
 contact: Georgette Femerling
